@@ -1,0 +1,15 @@
+{
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "declaration": true,
+    "strict": true,
+    "isolatedModules": false,
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "module": "commonjs",
+    "preserveSymlinks": true
+  }
+}

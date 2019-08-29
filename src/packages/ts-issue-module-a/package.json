@@ -1,0 +1,19 @@
+{
+  "name": "ts-issue-module-a",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typescript": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "ts-typelib-example": "^1.0.0"
+  }
+}

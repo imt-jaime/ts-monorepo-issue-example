@@ -1,0 +1,17 @@
+{
+  "name": "ts-monorepo-issue-example",
+  "version": "1.0.0",
+  "description": "minimal monorepo example for TS",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typescript": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-typelib-example": "^2.0.0",
+    "typescript": "^3.5.3"
+  }
+}
