@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "ts-typelib-example": "^2.0.0",
-    "typescript": "^3.5.3"
+    "typescript": "^3.7.5"
   }
 }
