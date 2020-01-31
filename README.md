@@ -36,10 +36,11 @@ This resolution works when the project is a monolith style application (single r
 ## Test instructions
 
 1. Clone repository
-2. [Link module-b](https://docs.npmjs.com/cli/link) to the project (this step is to simulate we are working with this module in local repository)
-3. Execute TypeScript compiler (npm run typescript)
+2. npm install (for installing modules in repository)
+3. [Link module-b](https://docs.npmjs.com/cli/link) to the project (this step is to simulate we are working with this module in local repository)
+4. Execute TypeScript compiler (npm run typescript)
 
-A fail will appear in src/index.ts in the project. This fail is related to https://github.com/microsoft/TypeScript/issues/29221 in TypeScript official github.
+A fail will appear in src/index.ts in the project. This fail is related to <https://github.com/microsoft/TypeScript/issues/29221> in TypeScript official github.
 
 ## Module repositories
 
